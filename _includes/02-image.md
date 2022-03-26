@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Universidad Europea](https://universidadeuropea.com/resources/static/img/ue-logo-new.svg)
