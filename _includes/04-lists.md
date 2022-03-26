@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+### Lista de mis hobbies
+* Entrenar
+  * Gimnasio
+  * Senderismo
+* Ver series
+* Escuchar música
+* Programar
+* Películas
